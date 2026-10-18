@@ -1,0 +1,13 @@
+# Source catalog for the Field Notes app
+app.title = "Field Notes"
+app.greeting = Hello, {name}!
+nav.home = Home
+nav.settings = Settings
+settings.language = Language
+settings.theme = Theme
+btn.save = Save
+btn.cancel = Cancel
+msg.saved = Saved {count} note(s)
+msg.uploading = Uploading %d files
+err.network = Network is unreachable. Try again.
+footer.version = v%s

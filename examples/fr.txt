@@ -1,0 +1,12 @@
+# French translation, partly done
+app.title = "Notes de terrain"
+app.greeting = Bonjour, {name} !
+nav.home = Accueil
+nav.settings = Paramètres
+settings.language = Langue
+settings.theme = Theme
+btn.save = Enregistrer
+btn.cancel = Annuler
+msg.saved = {total} note(s) enregistrée(s)
+msg.uploading = Envoi de %d fichiers
+err.network = Réseau injoignable.

@@ -1,0 +1,16 @@
+# German translation with a few mistakes to catch
+app.title = "Felder-Notizen"
+app.greeting = Hallo, {name}!
+nav.home = Start
+nav.home = Startseite
+nav.settings = Einstellungen
+settings.language = Sprache
+settings.theme =
+btn.ok Okay
+btn.save = Speichern
+btn.cancel = Abbrechen
+msg.saved = {count} Notiz(en) gespeichert
+msg.uploading = Lade %d Dateien hoch
+err.network = Netzwerk nicht erreichbar. Bitte erneut versuchen.
+footer.version = v%s
+legacy.beta = Beta-Funktionen
